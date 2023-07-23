@@ -1,0 +1,7 @@
+Nota de plata
+--------------------
+paine,2,6 lei
+apa,6,30 lei
+ulei,1,10 lei
+--------------------
+Total 46 lei

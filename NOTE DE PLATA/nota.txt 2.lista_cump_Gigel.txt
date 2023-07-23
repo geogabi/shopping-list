@@ -1,0 +1,6 @@
+Nota de plata
+--------------------
+ulei,3,30 lei
+apa,2,10 lei
+--------------------
+Total 40 lei

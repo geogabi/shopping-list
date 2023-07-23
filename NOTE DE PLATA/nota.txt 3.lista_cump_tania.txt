@@ -1,0 +1,7 @@
+Nota de plata
+--------------------
+apa,10,50 lei
+mere,5,25 lei
+paine,20,60 lei
+--------------------
+Total 135 lei

@@ -1,0 +1,4 @@
+50
+ulei,3
+mere,5
+apa,2

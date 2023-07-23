@@ -1,0 +1,4 @@
+100
+paine,2
+apa,6
+ulei,1
